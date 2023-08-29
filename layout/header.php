@@ -24,12 +24,23 @@
 
 <body class="">
     <!--app-->
-    <div id="app" class="uk-height-viewport uk-offcanvas-content uk-overflow-hidden uk-position-relative">
-        <!--header-->
-        <header class="header uk-navbar-container" uk-sticky="animation: uk-animation-slide-top; show-on-up: true;">
-            <div>oke</div>
-        </header>
-        <!--/header-->
+    <!--header-->
+    <header>
+        <div class="header-logo">
+            <img src="images/logo-header.png" alt="just-a-logo">
+        </div>
+        <div class="header-tabbar" id="nav">
+            <a class="btn-nav_active" href="index.html">Trang chủ</a>
+            <a class="btn-nav" href="aboutUs.html">Giới thiệu</a>
+            <a class="btn-nav" href="project.html">Dự án</a>
+            <a class="btn-nav" href="services.html">Dịch vụ</a>
+            <a class="btn-nav" href="productList.html">Các sản phẩm</a>
+            <a class="btn-nav" href="services.html">Tin tức và sự kiện</a>
+            <a class="btn-nav" href="blog.html">Blog</a>
+            <a class="btn-nav" href="contact.html">Liên hệ</a>
+        </div>
+    </header>
+    <!--/header-->
 
-        <!--main-->
-        <main class="main">
+    <!--main-->
+    <main class="main">
