@@ -2,5 +2,5 @@
 
 Header & Footer - Vượng
 Thư ngỏ & Thông tin pháp lý - Nguyên
-Triết lý - Toán
+Triết lý - Toàn
 Xuất khẩu & Lĩnh vực - Tùng
