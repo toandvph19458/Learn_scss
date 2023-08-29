@@ -31,4 +31,4 @@
         <!--/header-->
 
         <!--main-->
-        <main class="main" uk-height-viewport="offset-top: true; offset-bottom: true;">
+        <main class="main">
