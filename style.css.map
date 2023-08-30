@@ -3,6 +3,8 @@
     "sources": [
         "scss/layouts/_section_3.scss",
         "style.css",
+        "scss/layouts/_section_4.scss",
+        "style.css",
         "scss/layouts/_header.scss",
         "style.scss"
     ],
